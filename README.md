@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-ndandekar@ucsd.edu
+Neil Dandekar and Pranav Kumarsubha
 
