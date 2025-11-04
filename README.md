@@ -1,2 +1,3 @@
 # DSC180A-Methodology-3
-Pranav Kumarsubha
+
+Neil Dandekar and Pranav Kumarsubha
